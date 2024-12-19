@@ -1,0 +1,17 @@
+.searchContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 60px 40px 20px 40px;
+}
+
+.inputSearch {
+    width: 300px;
+    padding: 10px;
+    border-radius: 50px;
+    border: 1px solid #5f5f5f;
+}
+
+.inputSearch:hover {
+    border: 2px solid rgb(102, 39, 204);
+}
